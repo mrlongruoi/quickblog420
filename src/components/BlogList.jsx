@@ -1,5 +1,5 @@
 import { motion as Motion } from "motion/react";
-import{ useState } from "react";
+import { useState } from "react";
 import { blog_data, blogCategories } from "../assets/assets";
 import BlogCard from "./BlogCard";
 
